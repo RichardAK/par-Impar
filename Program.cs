@@ -9,7 +9,6 @@ if (numeropar)
 {
     Console.ForegroundColor = ConsoleColor.Blue;
     Console.WriteLine($"{numerocolocado} é par");
-    
 }
 
 else
